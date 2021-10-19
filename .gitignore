@@ -1,4 +1,4 @@
-# ignore all .a files
+# ignore  all .a files
 *.md
 
 # but do track README.md, even though you're ignoring .md files above
