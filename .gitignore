@@ -3,3 +3,6 @@
 
 # but do track README.md, even though you're ignoring .md files above
 !README.md
+
+# .gitignore
+node_modules/
