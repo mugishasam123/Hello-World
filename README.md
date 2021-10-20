@@ -21,7 +21,7 @@ this is the project which includes all necessary steps a micronaut must have at 
 - Github
 
 ## Live Demo Link
-NO live demo link
+- click here to view this project (https://mugishasam123.github.io/Hello-World/)
 
 ### Getting Started
 in order to run project locally you first have to clone it to your computer after run it in web browser by opening  index.html 
