@@ -12,6 +12,10 @@ this is the project which includes all necessary steps a micronaut must have at 
 
 Built With
 Major languages:html and css
+
+
+
+
 Technologies used:git,github,linters.
 Live Demo
 
