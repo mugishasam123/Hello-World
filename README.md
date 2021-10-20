@@ -1,70 +1,63 @@
 
-Microverse
+# Microverse
 
+## Hello Microverse
 
-microverse project setup
+## microverse project setup
 
 this is the project which includes all necessary steps a micronaut must have at beginning.
 
+## Additional description about the project and its features.
+- Understanding Git, and GitHub.
+- Understanding GitHub Flow.
+- Understaanding linters and the structure and use of HTML & CSS
+
+## Built With
+- html and css
 
 
+### Technologies used
+- git
+- Github
 
+## Live Demo Link
+NO live demo link
 
-Built With
-Major languages:html and css
-
-
-
-
-Technologies used:git,github,linters.
-Live Demo
-
-Live Demo Link
-
-Getting Started
-
-
+### Getting Started
 in order to run project locally you first have to clone it to your computer after run it in web browser by opening  index.html 
 
+### Prerequisites
+## Setup
+no setup
+## Install
+you need to clone the project files to your laptop and after you run them locally in your laptop
 
+## Run tests
+no tests required.
 
-Prerequisites
+### Authors
 
+## 👤 Author
+. GitHub:https://github.com/mugishasam123/
 
-Setup:no setup present.
-Install:you need to clone the project files to your laptop and after you run them locally in your laptop
+.Twitter: https://twitter.com/mugishasamuel42/
 
-Run tests:no tests required.
+.LinkedIn: https://www.linkedin.com/in/mugisha-samuel-55a905208/
 
-Authors
-
-👤 Author
-GitHub:https://github.com/mugishasam123/
-
-
-Twitter: https://twitter.com/mugishasamuel42/
-
-
-LinkedIn: https://www.linkedin.com/in/mugisha-samuel-55a905208/
-
-
-
-
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-Show your support
+## Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-I created all codes myself
+## Acknowledgments
+    Hat tip to anyone whose code was used 
+    Microverse program 
+    My standup team 
+    My family's support 
 
-
-Inspiration:from microverse
-etc
-
-📝 License
+## 📝 License
 
 This project is open source project.
