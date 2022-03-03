@@ -1,63 +1,83 @@
+![](https://img.shields.io/badge/Hello-World-blue)
 
-# Microverse
+# Helloworld
 
-## Hello Microverse
+> Helloworld is my first app at microverse
 
-## microverse project setup
 
-this is the project which includes all necessary steps a micronaut must have at beginning.
 
-## Additional description about the project and its features.
-- Understanding Git, and GitHub.
-- Understanding GitHub Flow.
-- Understaanding linters and the structure and use of HTML & CSS
+<br/>
 
+# Live Demo
+
+[Live Link](https://mugishasam123.github.io/Hello-World/)
+
+<br/>
+
+Additional description about the project and its features.
 ## Built With
-- html and css
 
 
-### Technologies used
-- git
-- Github
+- Technologies/tools used 
+  
+  ``` bash
+ 
+  - Git(version control)
+  - webhint(html linting)
+  - Stylelint(style linting)
 
-## Live Demo Link
-- click here to view this project (https://mugishasam123.github.io/Hello-World/)
+  ```
 
-### Getting Started
-in order to run project locally you first have to clone it to your computer after run it in web browser by opening  index.html 
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-## Setup
-no setup
-## Install
-you need to clone the project files to your laptop and after you run them locally in your laptop
+ - A text editor(preferably Visual Studio Code)
+### Install
+  -  [Git](https://git-scm.com/downloads)
+  -  [Node](https://nodejs.org/en/download/)
+### Usage
+#### Clone this repository
 
-## Run tests
-no tests required.
+```bash
+$ git clone https://github.com/mugishasam123/Hello-World
+.git
+$ cd Hello-World
 
-### Authors
+```
+#### Run project
 
-## 👤 Author
-. GitHub:https://github.com/mugishasam123/
+```bash
 
-.Twitter: https://twitter.com/mugishasamuel42/
+$ open index.html in the browser 
+```
 
-.LinkedIn: https://www.linkedin.com/in/mugisha-samuel-55a905208/
+  <br>
+
+## Authors
+
+👤 ** Mugisha Samuel**
+
+- GitHub: [mugishasamuel](https://github.com/mugishasam123)
+- LinkedIn: [mugishasamuel](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
+- Twitter: [mugishasamuel](https://twitter.com/mugishasamuel42/)
+
+<br>
 
 ## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/mugishasam123/Hello-World/issues).
+
+<br>
 
 ## Show your support
-Give a ⭐️ if you like this project!
 
-## Acknowledgments
-    Hat tip to anyone whose code was used 
-    Microverse program 
-    My standup team 
-    My family's support 
+Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is open source project.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
